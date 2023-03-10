@@ -48,7 +48,6 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="CategoryMaster.cs" />
-    <Compile Include="Custom.cs" />
     <Compile Include="ProductCategoryDetail.cs" />
     <Compile Include="ProductMaster.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
